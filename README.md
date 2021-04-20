@@ -9,3 +9,7 @@ My name is **_Benjamin Blundell_** and I'm a penultimate (3<sup>rd</sup>) year P
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:benjamin.blundell@kcl.ac.uk)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Benjamin-Blundell)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=ROthcOoAAAAJ&hl=en&oi=sra)
+
+## I'm a computer scientist working in AI, computer vision and the biosciences
+
+I'm a computer scientist by education, a former [Research Software Engineer](https://society-rse.org/) by profession and a biosciences student by research. I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme, with King's College London. I'm part of the [ch'ng group](https://kclpure.kcl.ac.uk/portal/queelim.html) at the [IoPPN](https://www.kcl.ac.uk/ioppn/about), and the [Cox group](https://www.kcl.ac.uk/lsm/research/divisions/randall/research/sections/motility/cox/coxsusan) in [Randall Centre for Cell & Molecular Biophysics](https://www.kcl.ac.uk/randall).
