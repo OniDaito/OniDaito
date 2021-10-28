@@ -3,6 +3,7 @@
 My name is **_Benjamin Blundell_** and I'm a penultimate (4<sup>th</sup>) year PhD Student at King's College London 🎓 within the [London Interdisciplinary Doctoral (LIDo) Bioscience Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme").
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4634-4779" href="https://orcid.org/0000-0002-4634-4779" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-4634-4779</a></div>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onidaito)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamincpu/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/benjamincpu)](https://twitter.com/benjamincpu)
