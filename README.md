@@ -1,6 +1,6 @@
 # Welcome to Benjamin's GitHub Page! 👋
 
-My name is **_Dr Benjamin Blundell_** and I'm a Research Software Engineer at the [Sea Mammal Research Unit (SMRU](http://www.smru.st-andrews.ac.uk/) 🦭 at the [Scottish Oceans Institute](https://soi.st-andrews.ac.uk/), 🐋 at the [University of St Andrews](https://www.st-andrews.ac.uk/) 🐳
+My name is **_Dr Benjamin Blundell_** and I'm a Research Software Engineer at the [Sea Mammal Research Unit (SMRU)](http://www.smru.st-andrews.ac.uk/) 🦭 at the [Scottish Oceans Institute](https://soi.st-andrews.ac.uk/), 🐋 at the [University of St Andrews](https://www.st-andrews.ac.uk/) 🐳
 
 Previously, I was a PhD Student at King's College London 🎓 within the [London Interdisciplinary Doctoral (LIDo) Bioscience Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme").
 
