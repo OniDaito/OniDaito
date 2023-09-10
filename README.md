@@ -14,8 +14,10 @@ Previously, I was a PhD Student at King's College London 🎓 within the [London
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Benjamin-Blundell)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=ROthcOoAAAAJ&hl=en&oi=sra)
 
-## I'm a published computer science student working in AI, computer vision and the biosciences
+## I'm a software engineer and scientist working in AI, computer vision and the biosciences
 
-I'm a computer scientist by education, a [Research Software Engineer](https://society-rse.org/) by profession and theres a bit of bioscience in there too by. I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme, with King's College London. I'm part of the [ch'ng group](https://kclpure.kcl.ac.uk/portal/queelim.html) at the [IoPPN](https://www.kcl.ac.uk/ioppn/about), and the [Cox group](https://www.kcl.ac.uk/lsm/research/divisions/randall/research/sections/motility/cox/coxsusan) in [Randall Centre for Cell & Molecular Biophysics](https://www.kcl.ac.uk/randall).
+I'm a computer scientist by education, a [Research Software Engineer](https://society-rse.org/) by profession and theres a bit of bioscience in there too by. I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme, with King's College London. I was formally part of the [ch'ng group](https://kclpure.kcl.ac.uk/portal/queelim.html) at the [IoPPN](https://www.kcl.ac.uk/ioppn/about), and the [Cox group](https://www.kcl.ac.uk/lsm/research/divisions/randall/research/sections/motility/cox/coxsusan) in [Randall Centre for Cell & Molecular Biophysics](https://www.kcl.ac.uk/randall).
+
+I'm now based at the Sea Mammal Research Unit, over at the University of St Andrews, spending my time looking at Sonar Images with A.I. and computer vision.
 
 You can find our latest paper **"3D Structure from 2D Microscopy images using Deep Learning"** in the [Frontiers in Bioinformatics Journal](https://www.frontiersin.org/articles/10.3389/fbinf.2021.740342/full)
