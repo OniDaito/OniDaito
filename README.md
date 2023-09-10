@@ -8,7 +8,7 @@ Previously, I was a PhD Student at King's College London 🎓 within the [London
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onidaito)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamincpu/)
-[![Mastodon](https://img.shields.io/badge/mastodon-blue)](https://mastodon.social/api/salmon/000220949)
+[![Mastodon](https://img.shields.io/badge/mastodon-blue)](https://mastodon.social/@onidaito)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:benjamin.blundell@kcl.ac.uk)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Benjamin-Blundell)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=ROthcOoAAAAJ&hl=en&oi=sra)
